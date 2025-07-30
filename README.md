@@ -16,4 +16,6 @@ Este projeto é um aplicativo web interativo desenvolvido com **Streamlit**. Ele
 - Pandas
 - Streamlit
 - Matplotlib / Seaborn (opcional para gráficos)
-  
+
+  ## Acesso
+  https://projetotripleten-l05b.onrender.com/
